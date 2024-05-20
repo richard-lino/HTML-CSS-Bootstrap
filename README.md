@@ -40,7 +40,7 @@ Todos os projetos são de uso educacional e foram desenvolvidos durante o curso 
 9. **Projeto 9: Página de Streaming: Spotify**
    - Descrição: Este projeto HTML estrutura uma página promocional do Spotify, utilizando Bootstrap para o design responsivo e Font Awesome para ícones. O conteúdo inclui um cabeçalho com uma barra de navegação fixa, um carrossel com ofertas de serviços e seções detalhando os recursos e vantagens do Spotify. Além disso, a página é responsiva, adaptando-se a vários tipos de telas, e possui um rodapé que contém links úteis e ícones de redes sociais, garantindo uma navegação intuitiva e informativa para os usuários.
    - Tecnologias: HTML, CSS, Bootstrap.
-   - 
+     
 ## Instalação
 
 Para visualizar e editar qualquer um desses projetos localmente:
@@ -50,6 +50,7 @@ Para visualizar e editar qualquer um desses projetos localmente:
    git clone https://github.com/richard-lino/HTML-CSS-Bootstrap.git
 
 2. Navegue até o diretório do projeto:
+   ```bash
    cd HTML-CSS-Bootstrap
    
 4. Abra o arquivo index.html do projeto desejado no seu navegador.
