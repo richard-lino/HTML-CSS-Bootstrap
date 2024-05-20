@@ -1,7 +1,7 @@
 # HTML-CSS-Bootstrap 
 
 Bem-vindo ao repositório **HTML-CSS-Bootstrap**! Aqui você encontrará 9 projetos de desenvolvimento de sites que utilizei HTML, CSS e Bootstrap. Cada projeto demonstra diferentes habilidades e conceitos no desenvolvimento front-end.
-Todos os projetos são de uso educacional e foram desenvolvidos durante o curso de Desenvolvimneto WEB da Udemy, ministrado pelo Professor **Jamilton Damasceno**.
+Todos os projetos são de uso educacional e foram desenvolvidos durante o curso de Desenvolvimento WEB da Udemy, ministrado pelo Professor **Jamilton Damasceno**.
 
 ## Projetos
 
